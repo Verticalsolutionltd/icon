@@ -1,0 +1,9 @@
+.container{
+	margin: 200px auto;
+	width: 50%;
+	border: 3px solid purple;
+}
+.icon_star{
+	text-align: center;	
+	padding: 40px 60px;
+}
